@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 4.0.0
+
+* Upgrade to `zookeeper ~> 8.0`
+
 ## 3.0.0
 
 * Upgrade to `zookeeper ~> 6.0`
